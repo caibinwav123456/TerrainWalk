@@ -1,0 +1,11 @@
+Z/X: Adapt Illumination
+M: Toggle Light Tracking
+A/D/W/S/Q/E: Move
+Space: Jump
+Enter: Reset
+N: Toggle Walking Mode
+H: Toggle Physics Mode
+J: Toggle Wire Frame
+F1: Display Status Stats
+F2: Show This Help
+Esc: Exit Program
