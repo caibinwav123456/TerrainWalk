@@ -1,2 +1,2 @@
 # TerrainWalk
- A simple physic engine.
+ A simple physics engine.
